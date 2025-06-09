@@ -1,1 +1,2 @@
-git_practice. More practice
+git_practice. More practice.
+Adding a third set of practice text to this file.
